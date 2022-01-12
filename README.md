@@ -1,6 +1,7 @@
 # Heart-Diseases-Prediction-Project
 Final Year Project as Heart Disease Prediction Project with all Documents.
 
+# PPT [CLICK](https://github.com/RoyalData/Heart-Diseases-Prediction-Project/blob/main/Heart%20disease%20prediction%20PPT.pdf)
 
 # Abstract
 
